@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I’m currently student at **İUS**
+- 🔭 I’m currently student at **IUS**
 
 - 🌱 I’m currently learning **Python and Other lang**
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Goktug-Dusunen?tab=repositories](https://github.com/Goktug-Dusunen?tab=repositories)
 
-- 📫 How to reach me **gdusunen@bk.ru**
+- 📫 How to reach me **gdusunen@bk.ru or gdusunen@euperline.com**
 
 ---
 <h3 align="center">Connect With Me :</h3>
