@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Goktug-Dusunen-x?tab=repositories](https://github.com/Goktug-Dusunen?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Goktug-Dusunen?tab=repositories](https://github.com/Goktug-Dusunen?tab=repositories)
 
 - 📫 How to reach me **gdusunen@bk.ru**
 
@@ -37,10 +37,10 @@
   
 ---
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen-x&theme=dark&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen-x&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen-x&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---  
 
