@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I’m currently student at **IUS**
+- 🔭 I’m currently student at **Emory University**
 
 - 🌱 I’m currently learning **Python and Other lang**
 
