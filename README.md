@@ -65,22 +65,21 @@ Languages: Python, C++, SQL
 
 
 
-
-Intelligence Metrics
+## Intelligence Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&show_icons=false&theme=dark&count_private=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&show_icons=false&theme=dark&hide_border=false" width="48%" />
-</p> <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&show_icons=true&theme=dark&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&hide_border=false" width="48%" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&hide_border=false" width="100%" alt="GitHub Streak" />
+</p>
 
-
+---
 
 <p align="right">
-<i>"The future is not something we enter, it's something we create."</i>  
-
+  <i>"The future is not something we enter, it's something we create."</i><br>
   <b>Göktuğ Düşünen</b>
 </p>
 
