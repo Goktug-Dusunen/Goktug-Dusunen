@@ -1,48 +1,70 @@
-<h1 align="center">Hi 👋 , I'm Göktuğ Düşünen</h1>
-<h3 align="center">A Passionate Bash and Python Developer From Turkey</h3>
+<h1 align="center">Hi 👋, I'm Göktuğ Düşünen</h1>
+<h3 align="center">Head of Artificial Intelligence | Data Scientist</h3>
 
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Goktug-Dusunen/Goktug-Dusunen/main/ai-header.gif" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20%26%20Data%20Science&fontSize=70'" width="100%"/>
 </div>
 
 <p align="center">
-<a href="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86"><img src="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86">
+    <img src="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86.svg" alt="wakatime">
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=goktug-dusunen&theme=darkhub" alt="goktug-dusunen" />
+  </a>
 </p>
----
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goktug-dusunen" alt="goktug-dusunen" /></a> </p>
 
 ---
 
-- 🔭 I’m currently student at **Emory University**
+### 🔭 Professional Focus & Vision
+As the **Head of Artificial Intelligence**, I specialize in building, training, and deploying large-scale AI models. My work focuses on the intersection of **Data Science**, **Machine Learning**, and **High-Performance Computing**.
 
-- 🌱 I’m currently learning **Python and Other lang**
-
-- 🤝 I’m looking for help with **Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Goktug-Dusunen?tab=repositories](https://github.com/Goktug-Dusunen?tab=repositories)
-
-- 📫 How to reach me **gdusunen@bk.ru or gdusunen@euperline.com**
+- 🔭 **Current Role:** Leading AI initiatives and model training strategies.
+- 🌱 **Expertise:** Deep Learning, Neural Networks, and Big Data Architecture.
+- 👨‍💻 **Tech Stack:** Python, PyTorch, TensorFlow, and Scalable AI Infrastructure.
+- 🤝 **Collaboration:** Open to high-impact AI research and innovative Data Science projects.
+- 📫 **Reach Me:** [gdusunen@euperline.com](mailto:gdusunen@euperline.com) | [gdusunen@bk.ru](mailto:gdusunen@bk.ru)
 
 ---
-<h3 align="center">Connect With Me :</h3>
+
+### 💻 AI & Data Science Stack
+<p align="left">
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br>
+  <!-- Languages & Tools -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 Performance & Contributions
 <p align="center">
-<a href="https://linkedin.com/in/gdusunen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Goktug Dusunen" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&theme=dark&show_icons=true&rank_icon=github&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
 </p>
 
 ---
 
-<h3 align="center">💻 Tech Stack:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-  
----
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&theme=dark&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/gdusunen" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----  
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="right">
+  <i>"The best way to predict the future is to invent it."</i>
+</p>
