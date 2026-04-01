@@ -1,77 +1,53 @@
 <div align="center">
-<h1>Göktuğ Düşünen</h1>
-  <h3>Head of Artificial Intelligence | Data Scientist</h3>
-</div> <p align="center">
+  <h1>Göktuğ Düşünen</h1>
+  <h3>Head of Artificial Intelligence | Deep Learning Architect | Rustacean</h3>
+</div>
+
+<p align="center">
   <a href="https://linkedin.com/in/gdusunen">LinkedIn</a> | 
   <a href="mailto:goktug.dusunen@rendrea.com">goktug.dusunen@rendrea.com</a> | 
-  <b>AI Engineering & Data Science</b>
+  <b>AI Engineering & RAG Systems & Rust Infrastructure</b>
 </p>
 
+---
 
+### 🌐 Corporate Ecosystem
 
+**Yapay Zeka Stratejileri ve İnovasyon Lideri** olarak, yüksek teknolojili kuruluşlarda state-of-the-art çözümlere öncülük ediyorum:
 
-Corporate Ecosystem
+* **Rendrea | Head of Artificial Intelligence**
+    * Generative AI modelleri ve karmaşık nöral mimarilerin geliştirilmesine liderlik ediyorum. Yüksek performanslı AI çıkarım (inference) süreçleri için **Rust** tabanlı backend altyapıları kurguluyorum.
+* **Blend+r | AI Strategy & Implementation**
+    * **CNN** ve görüntü işleme modellerini kreatif multimedya ekosistemlerine entegre ediyorum. Büyük veri işleme modüllerinde Rust kullanarak verimliliği maksimize ediyorum.
+* **Erratech | Technical Advisor (AI & Data)**
+    * Kurumsal ölçekte **RAG (Retrieval-Augmented Generation)** sistemleri tasarlayarak şirketlerin kendi verileriyle konuşan güvenli ve otonom zeka sistemleri kuruyorum.
 
-Driving innovation and leading AI strategies across multiple high-tech organizations:
+---
 
-•
-Rendrea | Head of Artificial Intelligence
+### 🎯 Strategic Vision
 
-•
-Leading the development of generative AI models and neural architecture.
+Uzmanlığım; **CNN**, **LLM** ve modern **RAG** mimarilerinin endüstriyel ölçekte dağıtımı üzerine odaklanmıştır. Karmaşık veriyi, güvenli ve performanslı sistemlerle aksiyon alınabilir zekaya dönüştürüyorum.
 
+* **Çekirdek Uzmanlık:** Deep Learning (CNN, Transformers), Reinforcement Learning, **RAG Systems Design**.
+* **Performance Engineering:** AI çıkarım hızlarını optimize etmek için **Rust** ve **CUDA** entegrasyonu.
+* **Mission:** Akademik derin öğrenme araştırmalarını, endüstriyel hız ve Rust güvenliği ile stabilize etmek.
 
+---
 
-•
-Blend+r | AI Strategy & Implementation
+### 🛠 Technical Arsenal
 
-•
-Integrating advanced AI workflows into creative and multimedia ecosystems.
+* **AI & Deep Learning:** PyTorch, TensorFlow, **CNN**, **LLM (Llama, GPT)**, **RAG (LangChain, LlamaIndex)**
+* **Infrastructure & DevOps:** Linux (Ubuntu), Docker, Kubernetes, **NVIDIA CUDA**, Git, Bash
+* **Languages:** Python, **Rust (High Performance AI)**, C++, SQL
 
+---
 
-
-•
-Erratech | Technical Advisor (AI & Data )
-
-•
-Consulting on scalable data infrastructures and automated intelligence systems.
-
-
-
-
-
-
-Strategic Vision
-
-Specializing in the deployment of Large Language Models (LLMs) and Neural Networks. My focus is on transforming complex data into actionable intelligence and building autonomous systems that scale.
-
-•
-Core Expertise: Deep Learning, Reinforcement Learning, and Big Data Engineering.
-
-•
-Current Sprint: Optimizing inference speeds for real-time AI applications.
-
-•
-Mission: Bridging the gap between academic AI research and industrial-scale implementation.
-
-
-
-
-Technical Arsenal
-
-AI & Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
-Infrastructure & DevOps: Linux, Docker, Kubernetes, NVIDIA CUDA, Git, Bash
-Languages: Python, C++, SQL
-
-
-
-## Intelligence Metrics
+### 📊 Intelligence Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&show_icons=true&theme=dark&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&hide_border=false" width="48%" alt="Top Languages" />
-</p>
-
+</p> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&hide_border=false" width="100%" alt="GitHub Streak" />
 </p>
@@ -82,4 +58,3 @@ Languages: Python, C++, SQL
   <i>"The future is not something we enter, it's something we create."</i><br>
   <b>Göktuğ Düşünen</b>
 </p>
-
