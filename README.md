@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Göktuğ%20Düşünen&fontSize=60&fontAlignY=45&desc=Head%20of%20Artificial%20Intelligence&descSize=22&descAlignY=65" width="100%"/>
+<h1>Göktuğ Düşünen</h1>
+  <h3>Head of Artificial Intelligence | Data Scientist</h3>
 </div> <p align="center">
   <a href="https://linkedin.com/in/gdusunen">LinkedIn</a> | 
   <a href="mailto:goktug.dusunen@rendrea.com">goktug.dusunen@rendrea.com</a> | 
@@ -68,10 +69,10 @@ Languages: Python, C++, SQL
 Intelligence Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&theme=dark&show_icons=false&rank_icon=github&count_private=true&hide_title=false&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&hide_title=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&show_icons=false&theme=dark&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&show_icons=false&theme=dark&hide_border=false" width="48%" />
 </p> <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&hide_border=false" width="100%" />
 </p>
 
 
