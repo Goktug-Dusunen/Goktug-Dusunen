@@ -43,6 +43,8 @@ I also work on device-level product experiments. My customized [Glyph Developer 
 
 The public portfolio currently includes **30 models, 20 datasets, and 9 Spaces** under [GoktugD](https://huggingface.co/GoktugD), with additional organization releases under [Werea](https://huggingface.co/Werea-co).
 
+The machine-readable catalog and weekly synchronization workflow live in [open-ai-portfolio](https://github.com/Goktug-Dusunen/open-ai-portfolio).
+
 <div align="center">
 
 Open to research collaboration, applied AI work, and technically ambitious product teams.
