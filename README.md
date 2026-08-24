@@ -1,60 +1,50 @@
 <div align="center">
-  <h1>Göktuğ Düşünen</h1>
-  <h3>Head of Artificial Intelligence | Deep Learning Architect | Rustacean</h3>
+
+# Göktuğ Düşünen
+
+### AI Engineer · Turkish NLP · Retrieval · Speech · Vision · Security
+
+[Hugging Face](https://huggingface.co/GoktugD) · [Werea](https://huggingface.co/Werea-co) · [LinkedIn](https://www.linkedin.com/in/gdusunen) · [Email](mailto:goktug.dusunen@rendrea.com)
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/gdusunen">LinkedIn</a> | 
-  <a href="mailto:goktug.dusunen@rendrea.com">goktug.dusunen@rendrea.com</a> | 
-  <b>AI Engineering & RAG Systems & Rust Infrastructure</b>
-</p>
+I build open AI systems for Turkish language understanding and production use. My work spans compact retrieval models, speech and text restoration, OCR, edge vision, and defensive security. I publish models, datasets, benchmarks, and interactive demos through my personal [Hugging Face profile](https://huggingface.co/GoktugD) and [Werea](https://huggingface.co/Werea-co).
 
----
+## Selected open-source work
 
-### 🌐 Corporate Ecosystem
+| Project | Focus | Explore |
+|---|---|---|
+| **DÜŞÜNEN Retrieval Stack** | Turkish embeddings, Matryoshka representation learning, reranking, hard negatives, and evaluation | [Rota 270M](https://huggingface.co/GoktugD/DUSUNEN-Rota-270M-v1) · [Atlas 278M](https://huggingface.co/GoktugD/DUSUNEN-Atlas-278M-v1) · [Benchmark](https://huggingface.co/datasets/GoktugD/DUSUNEN-Turkish-Retrieval-Benchmark-v1) |
+| **Werea Turkish NLP** | Diacritics restoration, summarization, QA, NER, intent, topic, sentiment, and NLI | [TextRestore](https://huggingface.co/Werea-co/Werea-TR-TextRestore) · [Summarizer](https://huggingface.co/Werea-co/Werea-TR-Summarizer) · [QA](https://huggingface.co/Werea-co/Werea-TR-QA) |
+| **Turkish Speech & OCR** | ASR, TTS, printed-text OCR, and document understanding | [Dinle ASR](https://huggingface.co/GoktugD/DUSUNEN-Dinle-244M-v1) · [Oku OCR](https://huggingface.co/GoktugD/DUSUNEN-Oku-62M-v1) · [Werea TSS](https://huggingface.co/Werea-co/Werea-TSS) · [DocOCR](https://huggingface.co/Werea-co/Werea-DocOCR-1B) |
+| **Security AI** | SOC assistance, incident analysis, defensive workflows, and security operations interfaces | [NanoSOC](https://huggingface.co/Werea-co/Werea-NanoSOC-8B) · [Argus](https://huggingface.co/spaces/Werea-co/Argus) · [Security Console](https://huggingface.co/spaces/Werea-co/argus-security-console) |
+| **Edge Vision** | Person detection for edge accelerators and constrained inference environments | [Gemstone Detector](https://huggingface.co/Werea-co/Werea-Gemstone-Person-Object-Detector-Small) |
 
-**Yapay Zeka Stratejileri ve İnovasyon Lideri** olarak, yüksek teknolojili kuruluşlarda state-of-the-art çözümlere öncülük ediyorum:
+## Live demos
 
-* **Rendrea | Head of Artificial Intelligence**
-    * Generative AI modelleri ve karmaşık nöral mimarilerin geliştirilmesine liderlik ediyorum. Yüksek performanslı AI çıkarım (inference) süreçleri için **Rust** tabanlı backend altyapıları kurguluyorum.
-* **Blend+r | AI Strategy & Implementation**
-    * **CNN** ve görüntü işleme modellerini kreatif multimedya ekosistemlerine entegre ediyorum. Büyük veri işleme modüllerinde Rust kullanarak verimliliği maksimize ediyorum.
-* **Erratech | Technical Advisor (AI & Data)**
-    * Kurumsal ölçekte **RAG (Retrieval-Augmented Generation)** sistemleri tasarlayarak şirketlerin kendi verileriyle konuşan güvenli ve otonom zeka sistemleri kuruyorum.
+- [DÜŞÜNEN Search Lab](https://huggingface.co/spaces/GoktugD/DUSUNEN-Search-Lab) — Turkish semantic search
+- [DÜŞÜNEN Vector Lab](https://huggingface.co/spaces/GoktugD/DUSUNEN-Vector-Lab) — embedding and Matryoshka exploration
+- [DÜŞÜNEN Oku Demo](https://huggingface.co/spaces/GoktugD/DUSUNEN-Oku-Demo) — Turkish OCR
+- [Werea TSS](https://huggingface.co/spaces/Werea-co/Werea-TSS) — Turkish text-to-speech
+- [Argus](https://huggingface.co/spaces/Werea-co/Argus) — endpoint security product showcase
 
----
+## Engineering focus
 
-### 🎯 Strategic Vision
+- **Modeling:** PyTorch, Transformers, Sentence Transformers, PEFT/QLoRA
+- **Retrieval:** dense embeddings, reranking, hard-negative mining, RAG evaluation
+- **Deployment:** ONNX, quantization, edge inference, Gradio, Hugging Face Spaces
+- **Domains:** Turkish NLP, speech, document AI, computer vision, blue-team security
 
-Uzmanlığım; **CNN**, **LLM** ve modern **RAG** mimarilerinin endüstriyel ölçekte dağıtımı üzerine odaklanmıştır. Karmaşık veriyi, güvenli ve performanslı sistemlerle aksiyon alınabilir zekaya dönüştürüyorum.
+## Beyond models
 
-* **Çekirdek Uzmanlık:** Deep Learning (CNN, Transformers), Reinforcement Learning, **RAG Systems Design**.
-* **Performance Engineering:** AI çıkarım hızlarını optimize etmek için **Rust** ve **CUDA** entegrasyonu.
-* **Mission:** Akademik derin öğrenme araştırmalarını, endüstriyel hız ve Rust güvenliği ile stabilize etmek.
+I also work on device-level product experiments. My customized [Glyph Developer Kit](https://github.com/Goktug-Dusunen/Glyph-Developer-Kit) explores real-time delivery progress on Nothing Phone's Glyph Interface.
 
----
+## Open portfolio
 
-### 🛠 Technical Arsenal
+The public portfolio currently includes **30 models, 20 datasets, and 9 Spaces** under [GoktugD](https://huggingface.co/GoktugD), with additional organization releases under [Werea](https://huggingface.co/Werea-co).
 
-* **AI & Deep Learning:** PyTorch, TensorFlow, **CNN**, **LLM (Llama, GPT)**, **RAG (LangChain, LlamaIndex)**
-* **Infrastructure & DevOps:** Linux (Ubuntu), Docker, Kubernetes, **NVIDIA CUDA**, Git, Bash
-* **Languages:** Python, **Rust (High Performance AI)**, C++, SQL
+<div align="center">
 
----
+Open to research collaboration, applied AI work, and technically ambitious product teams.
 
-### 📊 Intelligence Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goktug-Dusunen&show_icons=true&theme=dark&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goktug-Dusunen&layout=compact&theme=dark&hide_border=false" width="48%" alt="Top Languages" />
-</p> 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goktug-Dusunen&theme=dark&hide_border=false" width="100%" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="right">
-  <i>"The future is not something we enter, it's something we create."</i><br>
-  <b>Göktuğ Düşünen</b>
-</p>
+</div>
