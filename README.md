@@ -4,7 +4,7 @@
 
 ### AI Engineer · Turkish NLP · Retrieval · Speech · Vision · Security
 
-[Hugging Face](https://huggingface.co/GoktugD) · [Werea](https://huggingface.co/Werea-co) · [LinkedIn](https://www.linkedin.com/in/gdusunen) · [Email](mailto:goktug.dusunen@rendrea.com)
+[Live Portfolio](https://goktug-dusunen.github.io/open-ai-portfolio/) · [Hugging Face](https://huggingface.co/GoktugD) · [Werea](https://huggingface.co/Werea-co) · [LinkedIn](https://www.linkedin.com/in/gdusunen) · [Email](mailto:goktug.dusunen@rendrea.com)
 
 </div>
 
